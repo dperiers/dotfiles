@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = david.periers@gmail.com
+	name = David Periers
